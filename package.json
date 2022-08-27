@@ -1,0 +1,28 @@
+{
+  "name": "test-nodegui-app",
+  "version": "1.0.0",
+  "description": "A small NodeGui test app",
+  "main": "dist/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sedwards2009/test-nodegui-app.git"
+  },
+  "author": "Simon Edwards",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sedwards2009/test-nodegui-app/issues"
+  },
+  "homepage": "https://github.com/sedwards2009/test-nodegui-app#readme",
+  "scripts": {
+    "build": "npm run build:tsc",
+    "build:tsc": "tsc",
+    "run": "qode dist/main.js"
+  },
+  "dependencies": {
+    "@nodegui/nodegui": "^0.57.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.13",
+    "typescript": "^4.8.2"
+  }
+}
