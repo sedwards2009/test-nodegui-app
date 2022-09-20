@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment[en_US]=Test Application
+Comment=Test Application
+Exec=test-nodegui-app
+GenericName[en_US]=Test App
+GenericName=Test App
+MimeType=
+Name[en_US]=test-nodegui-app
+Name=test-nodegui-app
+Terminal=false
+Type=Application
