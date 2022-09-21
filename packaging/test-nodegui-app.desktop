@@ -1,4 +1,5 @@
 [Desktop Entry]
+Categories=Utility
 Comment[en_US]=Test Application
 Comment=Test Application
 Exec=test-nodegui-app
